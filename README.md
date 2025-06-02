@@ -5,4 +5,4 @@ based on a duty cycle as well as the switching pattern which is input to a three
 
 Key aspects:
 
-•Simulated and implemented Fuzzy Logic Control (FLC) in MATLAB/Simulink to regulate motor speed with robust performance across a wide range.
+• Simulated and implemented Fuzzy Logic Control (FLC) in MATLAB/Simulink to regulate motor speed with robust performance across a wide range.
