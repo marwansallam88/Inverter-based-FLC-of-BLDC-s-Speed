@@ -37,4 +37,4 @@ This project implements a Fuzzy Logic Controller (FLC) to regulate the speed of 
 2. Kim & Sul (2013). *Smooth Commutation of BLDC Motors via Predictive Control*. IEEE TPEL.  
 3. Monolithic Power Systems. *BLDC Motor Fundamentals*. [Online].  
 
-*Developed by Marwan Sallam, Amr Hassan, Ahmed Ibrahim, and Zeyad Eid.*  
+*Developed by Marwan Sallam, Amr Hassan, Ahmed Ibrahim, and Zeyad Eid at the German University in Cairo (GUC).* 
