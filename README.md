@@ -3,6 +3,8 @@
 ## Description  
 This project implements a Fuzzy Logic Controller (FLC) to regulate the speed of a Brushless DC (BLDC) motor using MATLAB/Simulink. The system integrates a three-phase inverter for electronic commutation, Hall-effect sensors for rotor position feedback, and a custom FLC to dynamically adjust the PWM duty cycle for precise speed control. The design targets applications in robotics, electric vehicles, and industrial automation, demonstrating high efficiency and robustness across varying load conditions.
 
+![Project Diagram](Model.png)
+
 ## Key Aspects  
 - **Control Strategy**: Fuzzy Logic Controller (FLC) replaces traditional PID, leveraging linguistic variables and rule-based decision-making for adaptive speed regulation.  
 - **Hardware Modeling**: Simulink-based BLDC motor model with four pole-pairs, six-sector commutation, and three-phase inverter.  
